@@ -1,0 +1,1316 @@
+[ 2016-10-01T10:17:14+08:00 ] 127.0.0.1 /home/content/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:17:15+08:00 ] 127.0.0.1 /home/content/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:17:29+08:00 ] 127.0.0.1 /home/content/lst/id/21
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:17:29+08:00 ] 127.0.0.1 /home/content/lst/id/public/Uploads/2016-09-30/57ee4c1712e0f.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:17:29+08:00 ] 127.0.0.1 /home/content/lst/id/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:20:42+08:00 ] 127.0.0.1 /home/content/lst/id/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:20:42+08:00 ] 127.0.0.1 /home/content/lst/id/public/Uploads/2016-09-30/57ee4c1712e0f.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:22:44+08:00 ] 127.0.0.1 /home/content/lst/id/21
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:22:44+08:00 ] 127.0.0.1 /home/content/lst/id/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:24:42+08:00 ] 127.0.0.1 /home/content/lst/id/21
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:24:42+08:00 ] 127.0.0.1 /home/content/lst/id/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:24:48+08:00 ] 127.0.0.1 /home/content/lst/id/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:25:36+08:00 ] 127.0.0.1 /home/content/lst/id/21
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:25:37+08:00 ] 127.0.0.1 /home/content/lst/id/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:26:32+08:00 ] 127.0.0.1 /home/content/lst/id/21
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:26:32+08:00 ] 127.0.0.1 /home/content/lst/id/Public/Uploads/2016-09-30/57ee4c1712e0f.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:26:32+08:00 ] 127.0.0.1 /home/content/lst/id/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:26:55+08:00 ] 127.0.0.1 /home/content/lst/id/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:26:55+08:00 ] 127.0.0.1 /home/content/lst/id/Public/Uploads/2016-09-30/57ee4c1712e0f.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:29:06+08:00 ] 127.0.0.1 /home/content/lst/id/21
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:29:06+08:00 ] 127.0.0.1 /home/content/lst/id/Public/Uploads/2016-09-30/57ee4c1712e0f.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.020001s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:29:06+08:00 ] 127.0.0.1 /home/content/lst/id/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:29:09+08:00 ] 127.0.0.1 /index.php/Home/Content/add/model_id/21
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:29:10+08:00 ] 127.0.0.1 /index.php/Home/Content/add/model_id/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:30:14+08:00 ] 127.0.0.1 /index.php/Home/Content/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:30:16+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:30:16+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/Public/Uploads/2016-09-30/57ee4c1712e0f.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:30:16+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:31:08+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:31:08+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/Public/Uploads/2016-09-30/57ee4c1712e0f.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:31:08+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:31:11+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:31:11+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/Public/Uploads/2016-09-30/57ee4c1712e0f.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:31:11+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:31:24+08:00 ] 127.0.0.1 /index.php/Home/Content/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:33:46+08:00 ] 127.0.0.1 /index.php/Home/Content/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:41:13+08:00 ] 127.0.0.1 /index.php/Home/Content/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:42:00+08:00 ] 127.0.0.1 /index.php/Home/Content/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:42:06+08:00 ] 127.0.0.1 /index.php/Home/Content/add/model_id/21
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:42:06+08:00 ] 127.0.0.1 /index.php/Home/Content/add/model_id/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:42:07+08:00 ] 127.0.0.1 /index.php/Home/Content/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:42:21+08:00 ] 127.0.0.1 /index.php/Home/Content/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:42:33+08:00 ] 127.0.0.1 /index.php/Home/Content/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:43:05+08:00 ] 127.0.0.1 /index.php/Home/Content/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:43:16+08:00 ] 127.0.0.1 /index.php/Home/Content/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:43:50+08:00 ] 127.0.0.1 /index.php/Home/Content/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:45:05+08:00 ] 127.0.0.1 /index.php/Home/Content/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:45:06+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:45:07+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:46:33+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:46:33+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:46:33+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/public/Uploads/2016-10-01/57ef2331809b5.jpg%20width=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:46:33+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/public/Uploads/2016-09-30/57ee4c1712e0f.gif%20width=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:46:34+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:46:34+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:46:34+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/public/Uploads/2016-10-01/57ef2331809b5.jpg%20width=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:46:34+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/public/Uploads/2016-09-30/57ee4c1712e0f.gif%20width=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:49:34+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:49:34+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:50:57+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:50:57+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:50:58+08:00 ] 127.0.0.1 /index.php/Home/Content/add/model_id/21
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:50:58+08:00 ] 127.0.0.1 /index.php/Home/Content/add/model_id/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:51:12+08:00 ] 127.0.0.1 /index.php/Home/Content/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:51:13+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:51:13+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:53:53+08:00 ] 127.0.0.1 /index.php/Home/Content/add/model_id/21
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:53:53+08:00 ] 127.0.0.1 /index.php/Home/Content/add/model_id/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:54:07+08:00 ] 127.0.0.1 /index.php/Home/Content/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:54:08+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:54:09+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:57:00+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:57:00+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:57:03+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:57:03+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21/p/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:57:06+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:57:06+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21/p/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:57:08+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:57:08+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21/p/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:57:33+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21/p/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:59:16+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T10:59:16+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21/p/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T11:01:07+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T11:01:07+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21/p/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T11:01:23+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T11:01:23+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21/p/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T11:05:21+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012001s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T11:05:21+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21/p/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T11:06:10+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T11:06:10+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21/p/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T11:06:12+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T11:06:12+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21/p/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T11:06:19+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+
+[ 2016-10-01T11:06:19+08:00 ] 127.0.0.1 /index.php/Home/Content/lst/id/21/Images/content_bg.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' D:\cms\Application\Home\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\cms\Application\Home\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\cms\Application\Home\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant DB_TYPE - assumed 'DB_TYPE' D:\cms\Application\Home\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' D:\cms\Application\Home\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' D:\cms\Application\Home\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant DB_PREFIX - assumed 'DB_PREFIX' D:\cms\Application\Home\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_DSN - assumed 'DB_DSN' D:\cms\Application\Home\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' D:\cms\Application\Home\Conf\config.php 第 18 行.
+

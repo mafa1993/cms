@@ -1,0 +1,57 @@
+[ 2015-05-05T10:26:08+08:00 ] ::1 /thinkphp/index.php/home/index/text
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.034002s ]
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\php100\wamp\www\thinkphp\Application\Home\Conf\config.php 第 6 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\php100\wamp\www\thinkphp\Application\Home\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.003000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.004000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2015-05-05T10:30:39+08:00 ] ::1 /thinkphp/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008001s ]
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\php100\wamp\www\thinkphp\Application\Home\Conf\config.php 第 6 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\php100\wamp\www\thinkphp\Application\Home\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.018001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.028001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.085005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.086005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2015-05-05T10:30:43+08:00 ] ::1 /thinkphp/index.php/Home/index/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] Use of undefined constant DB_FIELD_CACHE - assumed 'DB_FIELD_CACHE' D:\php100\wamp\www\thinkphp\Application\Home\Conf\config.php 第 6 行.
+NOTIC: [8] Use of undefined constant HTML_CACHE_ON - assumed 'HTML_CACHE_ON' D:\php100\wamp\www\thinkphp\Application\Home\Conf\config.php 第 8 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.019002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
